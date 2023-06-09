@@ -22,11 +22,23 @@ Ums-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/services/CursoServic
 Yms-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/MsUsuariosApplication.java,a\4\a46b98d16cc8ca724617de1697ba78284f3318f4
 C
 ms-usuarios/pom.xml,d\9\d9bbac8e95a8b295c3f5dc99a770022bff7faecd
-‰
-Yms-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/models/entity/Usuario.java,a\4\a4a13bf2608a0257f9927aa0d69b979712a000fb
-ƒ
-Sms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/entity/Curso.java,3\7\37dd30405c933bf1729e02f97f012c8d3f0fa03d
 A
 ms-cursos/pom.xml,e\b\eb70061eb284b50231a5c69ff5059c550f6d884d
 ƒ
 Sms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/MsCursosApplication.java,6\d\6d67816e249e5b0a3addb72c4d130da7917b4e7c
+‰
+Yms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/services/CursoServiceImpl.java,8\5\85bff279a7f8c1c861047104be639e7815d1b508
+Š
+Zms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/entity/CursoUsuario.java,3\f\3f6e7d32b0529707654ab675f6168ce920356312
+‘
+ams-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/controllers/UsuarioController.java,4\2\42ffc93826471210b95888b62cd912af6166e7aa
+~
+Nms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/Usuario.java,d\7\d77e8d6345f33a0b6436359da30007f6ba6266ea
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+ƒ
+Sms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/entity/Curso.java,3\7\37dd30405c933bf1729e02f97f012c8d3f0fa03d
+‹
+[ms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/controllers/CursoController.java,2\f\2fe68482a364d0fb97521e119703a54a4c3179a0
+‰
+Yms-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/models/entity/Usuario.java,a\4\a4a13bf2608a0257f9927aa0d69b979712a000fb

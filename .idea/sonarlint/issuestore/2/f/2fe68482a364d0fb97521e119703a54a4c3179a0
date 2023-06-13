@@ -1,22 +1,0 @@
-
-j
-java:S1192S"HDefine a constant instead of duplicating this literal "mensaje" 3 times.(ñ—Ú¬ıÿÿÿÿ8ôòÜÿ0
-H
-java:S1452"&Remove usage of generic wildcard type.(¦ÕÌşÿÿÿÿ8–ôòÜÿ0
-X	java:S125"<This block of commented-out lines of code should be removed.(ŞæÕÅ8–ôòÜÿ0
-H
-java:S1452&"&Remove usage of generic wildcard type.(–ìËÖùÿÿÿÿ8—ôòÜÿ0
-B
-java:S1452."&Remove usage of generic wildcard type.(ÉŞF8—ôòÜÿ0
-H
-java:S1452="&Remove usage of generic wildcard type.(”¸Ùşÿÿÿÿ8˜ôòÜÿ0
-C
-java:S1452N"&Remove usage of generic wildcard type.(°ó¤Ó8™ôòÜÿ0
-B
-java:S1452b"&Remove usage of generic wildcard type.(ªÓŞ8šôòÜÿ0
-H
-java:S1452v"&Remove usage of generic wildcard type.(ı¿Öµıÿÿÿÿ8šôòÜÿ0
-D
-java:S1452„"&Remove usage of generic wildcard type.(Úš“„8›ôòÜÿ0
-J
-java:S1602‹",Remove useless curly braces around statement(Óÿé¬8œôòÜÿ0

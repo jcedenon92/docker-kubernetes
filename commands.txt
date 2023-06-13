@@ -5,22 +5,10 @@ docker network create spring
 docker pull mysql:8
 
 //correr la imagen mysql:8 en el puerto ext 3307 e interno 3306 en la red spring y modificando variables de password y //database, generando un volumen para la persistencia de la data e indicando que al reiniciar no se pierdan los datos.
-docker run -d -p 3307:3306 --name mysql8
-	   --network spring
-	   -e MYSQL_ROOT_PASSWORD=mysql
-	   -e MYSQL_DATABASE=ms-usuarios
-	   -v data-mysql:/var/lib/mysql
-	   --restart=always 
-	   mysql:8
+docker run -d -p 3307:3306 --name mysql8 --network spring -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_DATABASE=ms-usuarios -v data-mysql:/var/lib/mysql --restart=always mysql:8
 
 //correr la imagen postgres:14-alpine en el puerto ext 5532 e interno 5432 en la red spring y modificando variables de //password y database, generando un volumen para la persistencia de la data e indicando que al reiniciar no se pierdan //los datos.
-docker run -d -p 5532:5432 --name postgres14
-	   --network spring
-	   -e POSTGRES_PASSWORD=mysql
-	   -e POSTGRES_DB=ms-cursos
-	   -v data-postgres:/var/lib/postgresql/data
-	   --restart=always 
-	   postgres:14-alpine
+docker run -d -p 5532:5432 --name postgres14 --network spring -e POSTGRES_PASSWORD=mysql -e POSTGRES_DB=ms-cursos -v data-postgres:/var/lib/postgresql/data --restart=always postgres:14-alpine
 
 //generando la imagen usuarios utilizando el archivo Dockerfile del ms-usuarios
 docker build -t usuarios . -f .\ms-usuarios\Dockerfile

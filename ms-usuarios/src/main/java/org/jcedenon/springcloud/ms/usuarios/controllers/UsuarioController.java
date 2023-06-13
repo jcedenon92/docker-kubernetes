@@ -20,7 +20,7 @@ public class UsuarioController {
 
     @GetMapping
     public Map<String, List<Usuario>> listar(){
-        return Collections.singletonMap("usuarios", service.listar());
+        return Collections.singletonMap("users", service.listar());
     }
 
     @GetMapping("/{id}")

@@ -6,8 +6,6 @@ J
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 è
 _ms-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/services/UsuarioServiceImpl.java,5\8\58790fd942f88a88dcfb1a56d0b59ce02729aab0
 í
@@ -30,8 +28,6 @@ Sms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/MsCursosApplication.
 Yms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/services/CursoServiceImpl.java,8\5\85bff279a7f8c1c861047104be639e7815d1b508
 ä
 Zms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/entity/CursoUsuario.java,3\f\3f6e7d32b0529707654ab675f6168ce920356312
-ë
-ams-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/controllers/UsuarioController.java,4\2\42ffc93826471210b95888b62cd912af6166e7aa
 ~
 Nms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/Usuario.java,d\7\d77e8d6345f33a0b6436359da30007f6ba6266ea
 9
@@ -42,3 +38,19 @@ Sms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/models/entity/Curso.
 [ms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/controllers/CursoController.java,2\f\2fe68482a364d0fb97521e119703a54a4c3179a0
 â
 Yms-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/models/entity/Usuario.java,a\4\a4a13bf2608a0257f9927aa0d69b979712a000fb
+F
+ms-usuarios/Dockerfile,4\7\47f13c8be0f4c9bc9c9bc8985d3fde16557cb10b
+D
+ms-cursos/Dockerfile,9\3\9357d6eaaecbdb9b6153546ce69e68af549caae7
+å
+\ms-usuarios/src/main/java/org/jcedenon/springcloud/ms/usuarios/clients/CursoClienteRest.java,2\a\2a6a9d10b05619567968064454bc9dfce2292319
+â
+Yms-cursos/src/main/java/org/jcedenon/springcloud/ms/cursos/clients/UsuarioClientRest.java,6\9\69d263f3ca577db5997f5fd98ee8aa2664a2f726
+<
+commands.txt,8\b\8bf05a2d5213d1db26fe3a426dd4b98d87557b4c
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+@
+ms-usuarios/.env,f\5\f5ff253ad9926d394104cdadfef9398add314feb
+>
+ms-cursos/.env,f\8\f826f4c08c8e2a2090cb0f31540be54d35bdcf8d
